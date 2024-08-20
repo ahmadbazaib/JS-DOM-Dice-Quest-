@@ -7,8 +7,6 @@ A fun and simple dice game where players compete to reach 100 points first. This
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## How to Play
@@ -34,4 +32,7 @@ A fun and simple dice game where players compete to reach 100 points first. This
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DiceRoller-Duel.git
+   git clone https://github.com/ahmadbazaib/JS-DOM-Dice-Quest-.git
+
+## License
+- This `README.md` file provides a clear overview of the Pig Game, including instructions on how to play, install, and contribute to the project. You can customize it further based on your specific implementation or additional features.
