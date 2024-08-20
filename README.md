@@ -6,7 +6,6 @@ A fun and simple dice game where players compete to reach 100 points first. This
 
 - [How to Play](#how-to-play)
 - [Features](#features)
-- [Installation](#installation)
 - [License](#license)
 
 ## How to Play
@@ -28,11 +27,5 @@ A fun and simple dice game where players compete to reach 100 points first. This
 - Reset game functionality.
 - Dynamic gameplay using JavaScript, HTML, and CSS.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ahmadbazaib/JS-DOM-Dice-Quest-.git
-
 ## License
-This `README.md` file provides a clear overview of the Pig Game, including instructions on how to play, install.
+This `README.md` file provides a clear overview of the Pig Game, including instructions on how to play.
