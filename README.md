@@ -35,4 +35,4 @@ A fun and simple dice game where players compete to reach 100 points first. This
    git clone https://github.com/ahmadbazaib/JS-DOM-Dice-Quest-.git
 
 ## License
-This `README.md` file provides a clear overview of the Pig Game, including instructions on how to play, install, and contribute to the project. You can customize it further based on your specific implementation or additional features.
+This `README.md` file provides a clear overview of the Pig Game, including instructions on how to play, install, and contribute to the project.
