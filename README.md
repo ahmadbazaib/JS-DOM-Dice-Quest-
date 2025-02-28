@@ -1,31 +1,27 @@
-# DiceQuest
+# 🎲 DiceQuest (Pig Game)
 
-A fun and simple dice game where players compete to reach 100 points first. This game is a great way to practice JavaScript fundamentals, including DOM manipulation and event handling.
+A simple yet exciting two-player dice game where the goal is to reach **100 points first**! This project demonstrates JavaScript event handling, conditional logic, and dynamic UI updates.
 
-## Table of Contents
+## 🚀 Live Demo
+🔗 [Play DiceQuest](#)
 
-- [How to Play](#how-to-play)
-- [Features](#features)
-- [License](#license)
+## 📜 How to Play
+1. Players take turns rolling a **six-sided die**.
+2. Each roll adds to their **current turn's score**.
+3. A player can **Hold** to save their score and pass the turn.
+4. **Rolling a 1** loses the current turn’s score, and the turn switches.
+5. The first player to reach **100 points** wins! 🎉
 
-## How to Play
+## 🛠️ Technologies Used
+- **HTML** – UI elements & layout.
+- **CSS** – Styling for a fun gaming experience.
+- **JavaScript** – Game logic, event listeners, and UI updates.
 
-1. **Objective**: The goal of the game is to be the first player to reach 100 points.
+## 🎯 Why This Project?
+- **JavaScript event-driven programming**.
+- **Dynamic DOM manipulation**.
+- **State management using variables & conditions**.
 
-2. **Gameplay**:
-   - Players take turns rolling a single die.
-   - On each turn, a player can roll the die as many times as they want, with the number rolled being added to their current turn's score.
-   - The player can choose to "Hold" at any time during their turn. This will add the current turn's score to their total score and pass the turn to the next player.
-   - If the player rolls a **1**, their current turn's score is lost, and their turn ends immediately.
-
-3. **Winning the Game**: The first player to reach 100 points wins the game.
-
-## Features
-
-- Interactive and user-friendly interface.
-- Real-time score updates.
-- Reset game functionality.
-- Dynamic gameplay using JavaScript, HTML, and CSS.
-
-## License
-This `README.md` file provides a clear overview of the Pig Game, including instructions on how to play.
+## 📌 Future Enhancements
+- Add an AI opponent.
+- Include sound effects & animations.
