@@ -3,7 +3,7 @@
 A simple yet exciting two-player dice game where the goal is to reach **100 points first**! This project demonstrates JavaScript event handling, conditional logic, and dynamic UI updates.
 
 ## 🚀 Live Demo
-🔗 [Play DiceQuest](https://dicequest-bazaib.netlify.app/)
+🔗 [Play DiceQuest](https://dicequest-jinwoo.netlify.app/)
 
 ## 📜 How to Play
 1. Players take turns rolling a **six-sided die**.
